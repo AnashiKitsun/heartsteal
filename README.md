@@ -28,7 +28,7 @@ Works best with the Fira Code font, as ligatures are used in the design.
 ## Screenshot
 
 <p align="center">
-<img src="{{SCREENSHOT_URL}}">
+<img src="screenshot.png">
 </p>
 
 
